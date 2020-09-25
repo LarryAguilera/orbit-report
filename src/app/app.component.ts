@@ -22,3 +22,4 @@ export class AppComponent
  }
   title = 'MyAssignment6';
 }
+console.log(Satellite)
